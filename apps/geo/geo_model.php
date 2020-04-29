@@ -4,7 +4,7 @@
 <!-- Prepare Geo chart for display -->
 google.charts.load('current', {
     'packages':['geochart'],
-    'mapsApiKey': 'AIzaSyCucRkAZOkWKLUR6ayZ83dSew4OCsFkLyY'
+    'mapsApiKey': ''
 });
 
 function drawChart(year) {
