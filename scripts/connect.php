@@ -1,4 +1,8 @@
 <?php
+    /*
+        Database connection settings.
+    */
+
     $server = '192.168.1.25';
     $connOptions = array(
         "Database" => "Capstone",
